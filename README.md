@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am Sid. 
+- I am a developer.
+- I build software, free ride bicycles and play guitars.
+- 
+
 <!--
 **muksiddheswar/muksiddheswar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
