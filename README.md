@@ -1,4 +1,4 @@
-### Hi there! &nbsp; Fancy seeing you here. &nbsp; :blush:
+### Hi there! Fancy seeing you here. &nbsp; :blush:
 
 <!--
 **muksiddheswar/muksiddheswar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
